@@ -1,13 +1,12 @@
-def my_superfunction():
-    print('What an awesome print!')
-    print(3 * 3)
+def new_version():
+    print(10000 ** 10000)
 
 def main():
     print('My first git program')
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
-    my_superfunction()
+    new_version()
 
 
 if __name__ == '__main__':
