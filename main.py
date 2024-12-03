@@ -1,6 +1,6 @@
 def my_superfunction():
     print('What an awesome print!')
-    print(2 + 2)
+    print(100 ** 100)
 
 def main():
     print('My first git program')
